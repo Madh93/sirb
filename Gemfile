@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :development do
+  gem 'guard-rspec', '~> 4.7.3', require: false
   gem 'rake', '~> 11.3.0'
   gem 'rubocop', '~> 0.43'
   gem 'yard', '~> 0.9.5'
@@ -11,5 +12,5 @@ end
 
 group :test do
   gem 'coveralls', '~> 0.8.15', require: false
-  gem 'guard-rspec', '~> 4.7.3', require: false
+  gem 'rspec', '~> 3.5.0'
 end

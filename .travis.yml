@@ -13,3 +13,5 @@ branches:
     - dev
 
 before_install: gem install bundler -v 1.13.2
+
+bundler_args: --without development

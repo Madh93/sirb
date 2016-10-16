@@ -1,12 +1,14 @@
 # SIrb
 
-[![Coverage Status](https://coveralls.io/repos/github/Madh93/sirb/badge.svg?branch=master)](https://coveralls.io/github/Madh93/sirb?branch=master)
+[![Gem Version](https://badge.fury.io/rb/sirb.svg)](http://badge.fury.io/rb/sirb)
+[![Dependency Status](https://gemnasium.com/Madh93/sirb.svg)](https://gemnasium.com/Madh93/sirb)
+[![Build Status](https://travis-ci.org/Madh93/sirb.svg)](https://travis-ci.org/Madh93/sirb) [![Coverage Status](https://coveralls.io/repos/github/Madh93/sirb/badge.svg?branch=master)](https://coveralls.io/github/Madh93/sirb?branch=master) [![Docs Status](http://inch-ci.org/github/Madh93/sirb.svg)](http://inch-ci.org/github/Madh93/sirb)
 
 Metaheuristics for Logistics Problems for [Sistemas Inteligentes e Interacción Persona Computador 2016/17](http://eguia.ull.es/etsii/query.php?codigo=135751105)
 
 ## Requirements
 
-Ruby >=2.1.0
+Ruby >=2.2.5
 
 ## Installation
 
@@ -22,12 +24,6 @@ Or install it yourself as:
 ## Usage
 
     $ sirb [OPTIONS]
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
 ## Contributing
 

@@ -1,5 +1,7 @@
 # SIrb
 
+[![Coverage Status](https://coveralls.io/repos/github/Madh93/sirb/badge.svg?branch=master)](https://coveralls.io/github/Madh93/sirb?branch=master)
+
 Metaheuristics for Logistics Problems for [Sistemas Inteligentes e Interacción Persona Computador 2016/17](http://eguia.ull.es/etsii/query.php?codigo=135751105)
 
 ## Requirements

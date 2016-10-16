@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'sirb'
+
+puts "SIrb saying 'Hello World!' from #{SIrb::VERSION} version."
